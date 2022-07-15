@@ -1,0 +1,38 @@
+body{
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+
+.auth{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+
+}
+
+
+.auth input{
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid rgba(30, 72, 134, 0.247);
+    color:rgb(0, 0, 0);
+}
+
+.auth input:focus{
+    outline: none;
+    box-shadow: none;
+}
+
+.jobserach-animation{
+    height: 550px;
+}
+
+.label,a{
+    color:rgb(0, 0, 0);
+}
+
+.auth-form-title{
+    font-size: 45px;
+    color:rgba(27, 27, 163, 0.774);
+}
